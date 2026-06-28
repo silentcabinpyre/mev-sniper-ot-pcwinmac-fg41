@@ -1,4 +1,4 @@
-# 
+# Profesional MEV sniper bot herramientas para Mac OS | Élite MEV sniper bot herramientas para PC Windows. Con pruebas de simulación y acceso rápido a mempool — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
